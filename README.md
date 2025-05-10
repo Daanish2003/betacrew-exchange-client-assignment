@@ -18,7 +18,7 @@ node client.js
 ```
 
 ### Step-4 Output
- -  theview the output.json for output
+ -  then view the output.json for output
 
 ## Solution Approach
 
