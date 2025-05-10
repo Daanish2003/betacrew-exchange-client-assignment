@@ -5,6 +5,7 @@
 ### Step-1: clone the repo
 ```
 git clone https://github.com/Daanish2003/betacrew-exchange-client-assignment.git
+cd betacrew-exchange-client-assignment
 ```
 
 ### Step-2: Run the BetaCrew Exchange Server
